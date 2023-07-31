@@ -19,3 +19,4 @@ a1.pop() #to remove the last value from the list by default.
 print(a1)
 a1.pop(4) #To remove the specific index position value from the list.
 print(a1)
+print(a1)
